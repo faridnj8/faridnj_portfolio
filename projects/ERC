@@ -6,8 +6,9 @@
 
 As part of TU Berlin’s competition team, I worked on the design and development of a planetary rover for the ERC. I was responsible for:
 
-- Designing and manufacturing the rover chassis using SolidWorks
-- Manufacturing was simplified by using pre fabricated aluminium profiles and attaching corners to form a rectangular frame as the main body. 
+- Designing and manufacturing the rover chassis using SolidWorks:
+  - Manufacturing was simplified by using pre fabricated aluminium profiles and attaching corners to form a rectangular frame as the main body. 
+  - Volume was selected based on internal components, wiring and desired temperature inside the rover's body. 
 
 - Performing structural simulations in Ansys Workbench for the robotic arm components
 
@@ -20,4 +21,5 @@ As part of TU Berlin’s competition team, I worked on the design and developmen
 🛠️ **Tools used:** SolidWorks, Ansys Workbench, 3D printing, aluminum profile construction
 
 ![Rover](../images/erc2024_rover.jpg)
-
+![Chassis]()
+![CAD]()

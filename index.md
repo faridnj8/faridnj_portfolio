@@ -27,7 +27,7 @@ This portfolio showcases selected projects that highlight my technical skills, t
 
 ## 💼 CV
 
-[Download my CV (PDF)](https://github.com/faridnj8/faridnj_portfolio/raw/main/CV_Farid%20Naissir.pdf)
+[Download my CV (PDF)](https://github.com/faridnj8/faridnj_portfolio/raw/main/docs/CV_Farid%20Naissir.pdf)
 
 ---
 

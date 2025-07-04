@@ -19,6 +19,11 @@ This portfolio showcases selected projects that highlight my technical skills, t
 
 - [European Rover Challenge (ERC ’23 & ’24)](projects/ERC)  
   Designed and manufactured rover chassis; integrated robotic arm; achieved 7th place in 2024 competition.
+  
+![Rover](../images/ERC-robro.jpg)
+![Chassis](../images/suspension assembly.jpg)
+![CAD](../images/Chassis solidworks.jpg)
+
 
 - [Cold Gas Test Stand (BEARS)](projects/teststand)  
   Developed control software and assembled hardware for student propulsion research test stand.

@@ -6,7 +6,7 @@ Berlin, Germany
 
 ---
 
-Welcome to my portfolio. I'm a Mechanical Engineer with a Master's in Space engineering, experienced in additive manufacturing, thermographic analysis, Systems Engineering and logistics. My experience spans hands-on experimental setups, data-driven analysis, and practical engineering problem-solving.
+Welcome to my portfolio. In here I expand on projects I've worked on, besides my work experience, to showcase my abilites in additive manufacturing, thermographic analysis and Systems Engineering. My experience spans hands-on experimental setups, data-driven analysis, and practical engineering problem-solving.
 
 This portfolio showcases selected projects that highlight my technical skills, teamwork, and commitment to delivering high-quality engineering solutions.
 

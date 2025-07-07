@@ -2,9 +2,7 @@
 
 **Team Member – Mechanical Design**  
 
-**Kielce, Poland – 2023**
-
-**Krakow, Poland – 2024**
+**Kielce, Poland – 2023 / Krakow, Poland – 2024**
 
 As part of TU Berlin’s competition team, I worked on the design and development of a planetary rover for the ERC. I was responsible for:
 
@@ -22,6 +20,6 @@ As part of TU Berlin’s competition team, I worked on the design and developmen
 
 🛠️ **Tools used:** SolidWorks, Ansys Workbench, 3D printing, aluminum profile construction
 
-![Rover](../images/ERC-robro.jpg)
+![Rover](ERC-robro.jpg)
 ![Chassis](../images/suspension assembly.jpg)
 ![CAD](../images/Chassis solidworks.jpg)

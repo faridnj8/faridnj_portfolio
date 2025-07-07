@@ -1,8 +1,3 @@
----
-layout: project 
-title: Ground Station upgrade
----
-
 # 📡 BEEGND-4 Ground Station Upgrade (TU Berlin, 2023)
 
 **Role:** Systems Engineer for Mechanical & RF Requirements  

@@ -1,8 +1,3 @@
----
-layout: project
-title: European Rover Challenge
----
-
 # European Rover Challenge (ERC ’23 & ’24)
 
 **Team Member – Mechanical Design**  

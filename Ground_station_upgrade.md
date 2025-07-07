@@ -37,4 +37,4 @@ SolidWorks, RF analysis tools, mechanical prototyping techniques
 
 ---
 
-[🔙 Back to Portfolio Home](../index.md)
+[🔙 Back to Portfolio Home](index.md)

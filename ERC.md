@@ -2,6 +2,7 @@
 
 **Team Member – Mechanical Design**  
 **Kielce, Poland – 2023**
+
 **Krakow, Poland – 2024**
 
 As part of TU Berlin’s competition team, I worked on the design and development of a planetary rover for the ERC. I was responsible for:

@@ -14,18 +14,18 @@ This portfolio showcases selected projects that highlight my technical skills, t
 
 ## 📌 Selected Projects
 
-- [BEEGND-4 Ground Station Upgrade](projects/Ground_station_upgrade)  
+- [BEEGND-4 Ground Station Upgrade](Ground_station_upgrade)  
   Coordinated mechanical and RF requirements for satellite communication ground station at TU Berlin.
 
-- [European Rover Challenge (ERC ’23 & ’24)](projects/ERC)  
+- [European Rover Challenge (ERC ’23 & ’24)](ERC)  
   Designed and manufactured rover chassis; integrated robotic arm; achieved 7th place in 2024 competition.
   
-![Rover](images/ERC-robro.jpg)
+![Rover](ERC-robro.jpg)
 ![Chassis](images/suspension_assembly.jpg)
 ![CAD](images/Chassis_solidworks.jpg)
 
 
-- [Cold Gas Test Stand (BEARS)](projects/teststand)  
+- [Cold Gas Test Stand (BEARS)](teststand)  
   Developed control software and assembled hardware for student propulsion research test stand.
 
 ---

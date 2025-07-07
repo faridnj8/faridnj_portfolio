@@ -1,8 +1,3 @@
----
-layout: project
-title: Cold gas test stand
----
-
 # 🧪 Cold Gas Test Stand (BEARS TU Berlin, 2022–2023)
 
 **Role:** Developer and Assembler  

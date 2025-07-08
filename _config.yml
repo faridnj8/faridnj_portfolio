@@ -1,8 +1,3 @@
 theme: jekyll-theme-minimal
 title: Farid Naissir Portfolio
 description: Selected engineering projects in aerospace, mechanical design & research
-
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name/

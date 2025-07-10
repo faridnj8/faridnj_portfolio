@@ -32,8 +32,8 @@ SolidWorks, RF analysis tools, mechanical prototyping techniques
 
 ## 📸 Images
 
-![Antenna System](Mechanical_support_mast.jpg)
-![Mechanical Integration](../images/Mount_Stress.jpg)
+![Antenna System](/images/Mechanical_support_mast.jpg)
+![Mechanical Integration](/images/Mount_Stress.jpg)
 
 ---
 

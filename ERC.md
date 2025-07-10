@@ -4,7 +4,7 @@
 
 As part of TU Berlin’s competition team, I worked on the design and development of a planetary rover for the ERC. I was responsible for:
 
--2023 Event in Kielce, Poland (Mechanical Engineer):
+- **2023 Event in Kielce, Poland (Mechanical Engineer)**:
 
 •	Designed the modular chassis body frame in SolidWorks, accounting for internal volume requirements, load paths, and thermal/electrical layout to ensure efficient connection distances and balanced weight distribution.
 
@@ -16,7 +16,7 @@ As part of TU Berlin’s competition team, I worked on the design and developmen
 
 •	Served as the primary technician for robotic arm disassembly and reassembly during competition phases.
 
-2024 Event in Krakow, Poland (Sub-team Lead, Chassis Design):
+- **2024 Event in Krakow, Poland (Sub-team Lead, Chassis Design):**
 •	Led a small sub team (2 members) to evolve and improve the previous year’s design, focusing on increased modularity for easier maintenance and upgrades.
 
 •	Directed redesign of the chassis to accommodate a larger footprint for improved thermal control and integration of new components such as an upgraded robotic arm and communications tower.

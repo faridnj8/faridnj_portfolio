@@ -20,6 +20,6 @@ As part of TU Berlin’s competition team, I worked on the design and developmen
 
 🛠️ **Tools used:** SolidWorks, Ansys Workbench, 3D printing, aluminum profile construction
 
-![Rover](images/erc-robro.jpg)
+![Rover](images/erc-robro.jpeg)
 ![Chassis](images/suspension_assembly.jpeg)
 ![CAD](images/Chassis_solidworks.png)

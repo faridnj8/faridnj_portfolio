@@ -20,9 +20,9 @@ This portfolio showcases selected projects that highlight my technical skills, t
 - [European Rover Challenge (ERC ’23 & ’24)](ERC)  
   Designed and manufactured rover chassis; integrated robotic arm; achieved 7th place in 2024 competition.
   
-![Rover](https://faridnj8.github.io/faridnj_portfolio/images/erc-robro.jpg)
-![Chassis](images/suspension_assembly.jpg)
-![CAD](images/Chassis_solidworks.jpg)
+![Rover](/images/erc-robro.jpg)
+![Chassis](/images/suspension_assembly.jpg)
+![CAD](/images/Chassis_solidworks.jpg)
 
 
 - [Cold Gas Test Stand (BEARS)](teststand)  

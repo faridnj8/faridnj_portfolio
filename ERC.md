@@ -6,15 +6,23 @@
 
 As part of TU Berlin’s competition team, I worked on the design and development of a planetary rover for the ERC. I was responsible for:
 
-- Designing and manufacturing the rover chassis using SolidWorks:
-  - Manufacturing was simplified by using pre fabricated aluminium profiles and attaching corners to form a rectangular frame as the main body. 
-  - Volume was selected based on internal components, wiring and desired temperature inside the rover's body. 
+-2023 Event (Mechanical Engineer):
+•	Designed the modular chassis body frame in SolidWorks, accounting for internal volume requirements, load paths, and thermal/electrical layout to ensure efficient connection distances and balanced weight distribution.
 
-- Performing structural simulations in Ansys Workbench for the robotic arm components
+•	Selected appropriate materials for structural plates and produced manufacturing-ready CAD models.
 
-- Supporting the integration of the robotic arm with mechanical interface and mounting
+•	Created the Bill of Materials (BOM) and personally carried out the physical assembly of the rover chassis.
 
-- Participating in the system assembly and on-site testing
+•	Designed the mechanical interface for the robotic arm base, ensuring reliable anchoring and operational accessibility.
+
+•	Served as the primary technician for robotic arm disassembly and reassembly during competition phases.
+
+2024 Event (Sub-team Lead, Chassis Design):
+•	Led a small sub team (2 members) to evolve and improve the previous year’s design, focusing on increased modularity for easier maintenance and upgrades.
+
+•	Directed redesign of the chassis to accommodate a larger footprint for improved thermal control and integration of new components such as an upgraded robotic arm and communications tower.
+
+•	Supervised teammates’ CAD modeling and interface design work, coordinating tasks to ensure consistency and assembly feasibility.
 
 🏆 **Result:** Achieved 7th place among 30+ international teams in 2024.
 

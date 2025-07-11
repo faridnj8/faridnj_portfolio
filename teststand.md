@@ -32,8 +32,8 @@ Arduino IDE, piping design and assembly, control electronics
 
 ## 📸 Images
 
-![Test Stand Assembly](/images/teststand_coldgas.jpg)
-![Control Interface](/images/valve_system.jpg)
+![Test Stand Assembly](/images/teststand_coldgas.jpeg)
+![Control Interface](/images/valve_system.jpeg)
 
 ---
 

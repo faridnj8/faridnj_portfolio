@@ -11,17 +11,22 @@ As part of the student team at TU Berlin, I worked on upgrading the BEEGND-4 gro
 
 ## 🔧 Responsibilities
 
-- Coordinated mechanical design and RF system integration
-- Ensured compliance with pointing accuracy and stability requirements for antenna systems
-- Analyzed signal path requirements to maintain gain and demodulation performance
-- Supervised mechanical assembly and alignment of antenna components
+- Served as Systems Engineer to integrate mechanical and RF requirements into a unified project plan
+
+- Defined and delegated tasks to ensure timely completion of mechanical design and RF subsystem integration
+
+- Managed the project timeline, coordinating dependencies between pointing accuracy, stability, and RF gain requirements
+
+- Maintained and updated technical documentation to ensure traceability of design choices and compliance with requirements
+
+- Oversaw mechanical assembly and alignment of antenna components to meet system performance criteria
 
 ---
 
 ## 🎯 Objectives
 
+- Improve mechanical robustness of the ground station and operational reliability
 - Enable reliable communication with BEESAT-1 and BEESAT-2 satellites
-- Improve mechanical robustness and operational reliability
 
 ---
 
@@ -32,7 +37,13 @@ SolidWorks, RF analysis tools, mechanical prototyping techniques
 
 ## 📸 Images
 
-![Antenna System](images/Mechanical_support_mast.jpeg)
+![Ground Station](images/ground_station.jpeg)
+
+![Control box](images/control_box.jpeg)
+
+![Mast Support CAD](images/Mechanical_support_mast.jpeg)
+
+![Mast Support](images/support_mast.jpeg)
 
 ![Mechanical Integration](images/Mount_Stress.png)
 

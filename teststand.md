@@ -11,9 +11,8 @@ As part of the BEARS student research group at TU Berlin, I contributed to the d
 
 ## 🔧 Responsibilities
 
-- Developed control software in Arduino IDE for automated test sequences
 - Assembled and validated the complete piping and valve system
-- Assisted in pressure testing and commissioning of the test stand
+- Developed control software in Arduino IDE for automated test sequences
 - Documented test procedures and safety protocols
 
 ---

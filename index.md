@@ -36,7 +36,7 @@ This portfolio showcases selected projects that highlight my technical skills, t
 
 - 📧 Email: farid.naissir@gmail.com
 - 📍 Berlin, Germany
-- [LinkedIn](www.linkedin.com/in/faridnj)
+-  LinkedIn: (www.linkedin.com/in/faridnj)
 
 
 ---
